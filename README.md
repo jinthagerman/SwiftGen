@@ -596,7 +596,7 @@ let bar = PlistFiles.Stuff.key1
 ## Strings
 
 ```yaml
-fonts:
+strings:
   inputs: /path/to/Localizable.strings
   outputs:
     templateName: structured-swift4
